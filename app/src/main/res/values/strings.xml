@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpvJar</string>
+    <!--确认框-->
+    <string name="dialog_cancel">cancel</string>
+    <string name="dialog_went">setting</string>
+
+    <!--schme跳转提示-->
+    <string name="scheme_app_not_install">not installed the app</string>
+    <string name="scheme_mma_not_install">mma not installed</string>
+</resources>
